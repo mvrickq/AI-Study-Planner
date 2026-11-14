@@ -1,0 +1,9 @@
+playwright
+beautifulsoup4
+lxml
+python-dotenv
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+numpy
